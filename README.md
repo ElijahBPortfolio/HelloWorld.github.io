@@ -7,4 +7,4 @@ I'm currently learning to use JavaScript, JavaScript Libraries, and how to use H
 I'm looking forward to collaborating on popcode projects!
 
 I can be reached by this email: ebro8030@taehs.org
-In the case that the above email is deprecated or unavaible, contact me here: eb574739@gmail.com
+In the case that the previous email is deprecated or unavaible, contact me here: eb574739@gmail.com
